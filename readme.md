@@ -42,3 +42,11 @@ Usage:
 
  `npm install -g @angular/cli`
 
+## ng v
+
+Outputs Angular CLI version.
+
+Usage:
+
+`ng v`
+
