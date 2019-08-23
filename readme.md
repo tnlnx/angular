@@ -84,3 +84,21 @@ Usage:
 ng serve
 ```
 
+## npm start
+
+The same as "ng serve"
+
+```
+npm start
+```
+
+## ng serve -o
+
+The same as "ng serve" but It opens a new web browser window on http://localhost:4200
+
+Usage:
+
+```
+ng serve -o
+```
+
