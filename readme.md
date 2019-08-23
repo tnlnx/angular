@@ -122,3 +122,23 @@ Usage:
 ng serve --port 1234 --host 0.0.0.0
 ```
 
+
+
+## ng generate --help
+
+Show help about all flags and schematics available
+
+Usage:
+
+```
+ng generate --help
+```
+
+ng test
+
+ng build
+
+ng build --prod
+
+ng build --help
+
