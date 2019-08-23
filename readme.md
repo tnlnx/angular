@@ -102,3 +102,23 @@ Usage:
 ng serve -o
 ```
 
+## ng serve --help
+
+Show available flags for "ng serve" command
+
+Usage:
+
+```
+ng serve --help
+```
+
+## ng serve --port 1234 --host 0.0.0.0
+
+Your local dev server now is available outside localhost over you local network. Use your Android or iPhone to browse it on port 1234 example: http://1.3.3.7:1234 Enjoy it! :-) 
+
+Usage:
+
+```
+ng serve --port 1234 --host 0.0.0.0
+```
+
