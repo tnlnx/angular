@@ -40,7 +40,9 @@ Install/Update Angular CLI globablly. After that you will have available some co
 
 Usage:
 
- `npm install -g @angular/cli`
+```
+npm install -g @angular/cli
+```
 
 ## ng v
 
@@ -48,5 +50,37 @@ Outputs Angular CLI version.
 
 Usage:
 
-`ng v`
+```
+ng v
+```
+
+## ng new
+
+Creates a new workspace and an initial Angular app.
+
+Usage:
+
+```
+ng new website-antoniobs-net
+```
+
+## ng new --help
+
+Show help about available flags using "ng new" command
+
+Usage:
+
+```
+ng new --help
+```
+
+## ng serve
+
+ Builds and serves your app, rebuilding on file changes.
+
+Usage:
+
+```
+ng serve
+```
 
