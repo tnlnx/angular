@@ -142,3 +142,13 @@ ng build --prod
 
 ng build --help
 
+# ng update
+
+Update to version of the core framework and CLI by running
+
+Usage:
+
+```
+ng update @angular/cli @angular/core
+```
+
